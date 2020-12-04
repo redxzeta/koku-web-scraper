@@ -25,3 +25,9 @@ All the items were all in one `<p>` so i had use strip to split them up based on
                 items_list = []
                 for j in value:
 ```
+
+# Result
+
+I was able to export them in a formatted json file thanks to `import json`
+
+Though I wanted to save the data in my backend so I made a loop in `convert.py`
